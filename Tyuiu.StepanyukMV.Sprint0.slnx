@@ -3,5 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Tyuiu.StepanyukMV.Sprint0.Task0.V0/Tyuiu.StepanyukMV.Sprint0.Task0.V0.vcxproj" />
+  <Folder Name="/Task0/" />
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.StepanyukMV.Sprint0.Task1.V0/Tyuiu.StepanyukMV.Sprint0.Task1.V0.vcxproj" Id="ce41ed76-64b6-4819-99af-35e8d0ae92b7" />
+  </Folder>
 </Solution>
