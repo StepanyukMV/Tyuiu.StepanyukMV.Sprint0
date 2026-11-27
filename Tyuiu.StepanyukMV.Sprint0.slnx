@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Tyuiu.StepanyukMV.Sprint0.Task0.V0/Tyuiu.StepanyukMV.Sprint0.Task0.V0.vcxproj" />
+</Solution>
